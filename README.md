@@ -1,4 +1,4 @@
-# NM-CYD-C5 Wardriving Firmware
+# Drunk Wardriving Firmware for NM-CYD-C5
 
 A focused, single-purpose wardriving firmware for the Rockbase NM-CYD-C5 (ESP32-C5).
 Passive Wi-Fi AP scanning + GPS tagging + WiGLE-format CSV logging, with a clean
