@@ -20,9 +20,10 @@ radio in STA mode to read beacon frames — it never sends attack traffic).
   ESP32 Marauder's `GpsInterface`.
 - HaleHound-CYD's menu organization was used only as UX inspiration; no
   HaleHound code is included (its release only ships compiled binaries).
-- I would like to personally thank the creators of Bruce an Marauder,
+- I would like to personally thank the creators of Bruce and Marauder,
   without thir hard work and dedication noe of this would be possible for me.
   I created this entire project wil Claude AI, I have zero coding experience.
+  This is my first time creating a real repository.
 
 ## Hardware
 
