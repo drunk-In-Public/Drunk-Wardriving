@@ -1,3 +1,4 @@
+<img width="1152" height="864" alt="grok-image-70343448-6fb1-4df3-9ecb-a758329f6498 (1)" src="https://github.com/user-attachments/assets/a248b389-547e-4799-abf0-690dabc3361f" />
 # Drunk Wardriving Firmware for NM-CYD-C5
 
 A focused, single-purpose wardriving firmware for the Rockbase NM-CYD-C5 (ESP32-C5).
