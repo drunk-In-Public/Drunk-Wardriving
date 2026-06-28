@@ -17,7 +17,7 @@ radio in STA mode to read beacon frames — it never sends attack traffic).
   Bruce core code is included, since it's tightly coupled to Bruce's full menu
   system).
 - GPS status concepts (fix/satellite/accuracy surfacing) were inspired by
-  ESP32 Marauder's `GpsInterface`.
+  ESP32 Marauder's (https://github.com/justcallmekoko) `GpsInterface`.
 - HaleHound-CYD's menu organization was used only as UX inspiration; no
   HaleHound code is included (its release only ships compiled binaries).
 - I would like to personally thank the creators of Bruce and Marauder,
