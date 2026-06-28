@@ -18,7 +18,8 @@ radio in STA mode to read beacon frames — it never sends attack traffic).
   system).
 - GPS status concepts (fix/satellite/accuracy surfacing) were inspired by
   ESP32 Marauder's (https://github.com/justcallmekoko) `GpsInterface`.
-- HaleHound-CYD's menu organization was used only as UX inspiration; no
+- HaleHound-CYD's (https://github.com/JesseCHale/HaleHound-CYD)
+   menu organization was used only as UX inspiration; no
   HaleHound code is included (its release only ships compiled binaries).
 - I would like to personally thank the creators of Bruce and Marauder,
   without thir hard work and dedication none of this would be possible for me.
